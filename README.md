@@ -35,7 +35,7 @@ The dashboard focuses on key business metrics such as sales, profit, orders, and
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](https://github.com/AtharvaPatil6/power-bi-sales-performance/blob/main/dashboard.jpg)
 
 ## Project Structure
 
