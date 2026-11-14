@@ -35,7 +35,7 @@ The dashboard focuses on key business metrics such as sales, profit, orders, and
 
 ## Dashboard Preview
 
-[View Dashboard Preview](dashboard.png)
+[View Dashboard Preview](dashboard.jpg)
 
 ## Project Structure
 
